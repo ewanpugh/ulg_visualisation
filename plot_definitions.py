@@ -1,4 +1,4 @@
-plot_definitions = [
+configuration = [
     {'page': 'Page 1',
      'parameter_paths':[
          {'file':'vehicle_status_0','parameter':'nav_state'},
